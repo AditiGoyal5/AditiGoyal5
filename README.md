@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **AditiGoyal5/AditiGoyal5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Masterhead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)](https://AditiGoyal5.io)]
 
 <h1 align="center">Hi 👋, I'm Aditi Goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
