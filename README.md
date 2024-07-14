@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditigoyal5&label=Profile%20views&color=0e75b6&style=flat" alt="aditigoyal5" /> </p>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **Travel Management System**
 
 - 🌱 I’m currently learning **PostgreSql**
 
